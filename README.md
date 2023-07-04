@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+[![Azure Static Web Apps CI/CD](https://github.com/MPZ-00/simple-vue-app/actions/workflows/azure-static-web-apps-orange-water-02610d903.yml/badge.svg)](https://github.com/MPZ-00/simple-vue-app/actions/workflows/azure-static-web-apps-orange-water-02610d903.yml)
